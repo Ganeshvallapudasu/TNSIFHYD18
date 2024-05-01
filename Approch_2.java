@@ -15,11 +15,11 @@ static String display1()
 }
 }
 
-public class Accessing {
+public class Approch_2 {
 
 	public static void main(String[] args) {
 		int a=10;
-	    Approch1 a1=new Approch1();
+	    Normal a1=new Normal();
 	    System.out.println(a);
 	    System.out.println(a1.bats_man);
 	    System.out.println(Normal.bowler);
